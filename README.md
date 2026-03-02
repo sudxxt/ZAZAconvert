@@ -107,5 +107,5 @@ Grab the ready-to-use **ZAZAconvert.exe** from [**Releases**](../../releases) �
 <div align="center">
 
 Made with ❤️ by **[Zaza International](https://zazaint.tech)**
-If you find this project useful, please also give it a ⭐️!
 </div>
+If you find this project useful, please also give it a ⭐️!
