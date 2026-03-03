@@ -60,7 +60,7 @@
 
 ## 🇬🇧 About
 
-**ZAZAconvert** is a powerful and stylish file converter with an 8-bit retro design. Over **30 tools** in one window — no clutter, no ads, no sign-up.
+**ZAZAconvert** is a powerful file converter . Over **30 tools** in one window — no clutter, no ads, no sign-up.
 
 ### 📌 What it can do
 
